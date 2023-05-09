@@ -37,8 +37,8 @@
     font-weight: 300;
     cursor: pointer;
     list-style: none;
-    padding: 10px;
     text-decoration: none;
+    border: 1px solid transparent;
 }
 
 .link:hover {
