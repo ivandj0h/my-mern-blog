@@ -20,7 +20,7 @@ export default function TopBar() {
             <div className='top-bar-right'>
                 <img 
                 className='top-bar-img'
-                src="https://res.cloudinary.com/ivandjoh/image/upload/v1683592956/profile_w30tdg.png" alt="ivandjoh" /> 
+                src="https://img.okezone.com/okz/500/library/images/2021/01/11/u8s9jv5k9q0vfkg1yym6_16891.jpeg" alt="ivandjoh" /> 
                 <i className="top-bar-search-icon fa-solid fa-magnifying-glass"></i>
             </div>
         </div>
