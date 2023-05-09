@@ -1,7 +1,8 @@
 import {
   Header,
   Posts,
-  SideBar
+  SideBar,
+  Single
 } from '../../components'
 import './home.css'
 
@@ -10,7 +11,7 @@ export default function Home() {
     <>
       <Header />
       <div className='home'>
-          <Posts />
+          <Single />
           <SideBar />
       </div>
     </>
