@@ -1,12 +1,12 @@
 import { TopBar } from './components';
-import { Settings } from './pages';
+import { Register } from './pages';
 
 
 function App() {
   return (
     <>
       <TopBar />
-      <Settings />
+      <Register />
     </>
   );
 }
