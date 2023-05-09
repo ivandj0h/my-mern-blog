@@ -1,0 +1,1 @@
+export { default as Single } from './single/Single';
