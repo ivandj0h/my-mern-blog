@@ -1,19 +1,21 @@
+import { useLocation } from "react-router";
 import {
   Header,
   Posts,
   SideBar,
-  Single
-} from '../../components'
-import './home.css'
+} from "../../components";
+import "./home.css";
 
 export default function Home() {
+  const location = useLocation();
+  console.log(location);
   return (
     <>
       <Header />
-      <div className='home'>
-          <Single />
-          <SideBar />
+      <div className="home">
+        <Posts />
+        <SideBar />
       </div>
     </>
-  )
+  );
 }
