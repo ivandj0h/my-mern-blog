@@ -26,16 +26,23 @@
 .top-bar-list {
     display: flex;
     justify-content: center;
-    padding: 0;
+    padding: 10px;
     margin: 0;
-    list-style: none;
 }
 
-.top-bar-listItem {
+.top-bar-listItem,
+.link {
     margin-right: 20px;
     font-size: 18px;
     font-weight: 300;
     cursor: pointer;
+    list-style: none;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: coral;
 }
 
 .top-bar-img {
