@@ -8,6 +8,8 @@ This Project is on Development, will be conttinue update
 
 `My Mern Blog` was developed using [ReactJS](https://reactjs.org) for self learning and This project was Inspired by [savak](https://www.youtube.com/@LamaDev).
 
+`Note that for now this Project is Still on UI Only, there's no functionality yet means not connected to the backend`
+
 ## Installation
 
 To Install this Application :
@@ -33,5 +35,5 @@ yarn start
 
 ## Credits
 
-[ivandjoh](https://linkedin.com/in/ivandjoh)
+[ivandjoh](https://linkedin.com/in/ivandjoh)  
 [delvin](https://github.com/delvincakep)
